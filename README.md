@@ -16,9 +16,11 @@
 | --- | --- | --- |
 | 12-08-12 | **Paper Cuts**<br>*Wisconsin's paper industry* | [jsonline.com](http://www.jsonline.com/watchdog/backfire-190528221.html) |
 | 02-09-13 | **Backfire**<br>*Government oversight in undercover ATF stings* | [jsonline.com](http://www.jsonline.com/watchdog/backfire-190528221.html) |
+| 06-09-13 | **Chronic Crisis**<br>*Milwaukee County's mental health system (General page)* | [jsonline.com](http://www.jsonline.com/news/milwaukee/chronic-crisis-a-system-that-doesnt-heal-milwaukee-county-mental-health-system-210480011.html#!/emergency-detentions/) |
 | 11-16-13 | **Deadly Delays**<br>*Nation's newborn screening programs* | [jsonline.com](http://www.jsonline.com/watchdog/Deadly-Delays-Watchdog-Report-newborn-screening-program-231927171.html) |
 | 06-14-14 | **Poor Health**<br>*An occasional series about the barriers to health and health care for low-income urban Americans* | [jsonline.com](http://www.jsonline.com/news/health/poor-health-262927161.html) |
 | 07-26-14 | **Great Lakes**<br>*A Watershed Moment* | [jsonline.com](http://www.jsonline.com/news/wisconsin/great-lakes-268550802.html) |
+| 01-11-15 | **Precious Lives**<br>*A two-year, 100-part series about young people and gun violence in Milwaukee* | [jsonline.com](http://www.jsonline.com/news/crime/precious-lives-317325441.html) |
 | 08-28-15 | **Gasping for Action**<br>*Diacetyl: chemical is injuring coffee workers and has seeped into other products such as e-cigarettes* | [jsonline.com](http://www.jsonline.com/watchdog/gasping-for-action-322988651.html) |
 | 10-19-15 | **Risk/Reward**<br>*The nation’s flawed system for approving new drugs* | [jsonline.com](http://www.jsonline.com/watchdog/risk-reward-333654831.html) |
 | 11-04-15 | **Unsolved**<br>*A murdered teen, a 40-year mystery* | [jsonline.com](http://www.jsonline.com/unsolved) |
