@@ -14,6 +14,7 @@
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title | Links |
 | --- | --- | --- |
+| 8-17-2016 | **Milwaukee Sherman Park Turmoil**<br>*Collection of coverage on the events in Sherman Park* | [jsonline.com](http://projects.jsonline.com/topics/sherman-park/) |
 | 5-5-2016 | **Journal Sentinel Talks**<br>*Milwaukee Bucks arena (special layout - on template)* | [jsonline.com](http://www.jsonline.com/jstalks/) |
 | 3-18-2016 | **Journey to Jordan**<br>*A medical mission to aid Syrian refugees* | [jsonline.com](http://www.jsonline.com/news/usandworld/syrian-refugees-370838171.html) |
 | 1-15-2016 | Fatal Identity | [jsonline.com](http://www.jsonline.com/news/wisconsin/fatal-identity-by-gina-barton-364036301.html) |
