@@ -2,14 +2,15 @@
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title | Links |
 | --- | --- | --- |
+| 9-25-2016 | **Act 10 at Five** |[jsonline.com part 1](http://projects.jsonline.com/news/2016/10/9/from-teacher-free-agency-to-merit-pay-the-uproar-over-act-10.html)<br>[jsonline.com part 2](http://projects.jsonline.com/news/2016/10/9/in-wake-of-act-10-fears-rise.html) |
 | 9-25-2016 | **Wisconsin faces billions in retiree obligations** | [code](https://github.com/datahub/pension-shortfall-map)<br>[jsonline.com](http://projects.jsonline.com/news/2016/9/25/Wisconsin-faces-billions-in-retiree-obligations.html#map-interactive) |
 | 8-21-2016 | **Timeline: Sherman Park**<br>*Tracing the events that caused unrest to descend into chaos.* | [jsonline.com](http://projects.jsonline.com/topics/sherman-park/timeline/) |
 | 5-22-2016 | **Illness inflation**<br>*How everyday conditions become medical disorders.* | [code](https://github.com/datahub/disorders)<br>[jsonline.com](http://www.jsonline.com/watchdog/Illness-inflation-how-everyday-conditions-become-medical-disorders-380291351.html) |
 | 5-20-2016 | **Debt calculator**<br>*What's the real cost of your student loan?* | [code](https://github.com/datahub/debt-calculator)<br>[jsonline.com](http://www.jsonline.com/business/whats-the-real-cost-of-your-student-loans-379971231.html) |
 | 5-13-2016 | **Beer Near**<br>*A guide to the Wisconsin's breweries and brewpubs.* | [code](https://github.com/datahub/beer-near)<br>[jsonline.com](http://www.jsonline.com/beernear) |
-| 4-27-2016 | **Land & Space Development Database**<br>*Tracking newly completed and ongoing commercial projects throughout the Milwaukee area.* | [code](https://github.com/datahub/developmentsDatabase-frontend)<br>[jsonline.com](http://www.jsonline.com/business/Land--Space-Development-Tracker-375271051.html) |
+| 4-27-2016 | **Land & Space Development Database**<br>*Tracking newly completed and ongoing commercial projects throughout the Milwaukee area.* | [code](https://github.com/datahub/developmentsDatabase-frontend)<br>[jsonline.com](http://www.jsonline.com/development) |
 | 4-15-2016 | **Exit Polls Data**<br>*Graphing 2016 Wisconsin Primary Election Exit Poll data.* | [code](https://github.com/datahub/wisc-exit-polls)<br>[jsonline.com](http://www.jsonline.com/news/statepolitics/2016-wisconsin-primary-election-exit-polls-374606101.html) |
-| 1-30-2016 | **Milwaukee Homicide Database**<br>*The Journal Sentinel is tracking homicides in Milwaukee to memorialize the victims and better understand deadly violence in the city.* | [code](https://github.com/datahub/crime-frontend)<br>[jsonline.com](http://www.jsonline.com/news/crime/milwaukee-homicide-tracker-367120481.html) |
+| 1-30-2016 | **Milwaukee Homicide Database**<br>*The Journal Sentinel is tracking homicides in Milwaukee to memorialize the victims and better understand deadly violence in the city.* | [code](https://github.com/datahub/crime-frontend)<br>[jsonline.com](http://www.jsonline.com/homicide) |
 | 3-25-2015 | **Scott Walker 2016 Presidential Tracker**<br>*Following Scott Walker's run in the 2016 Presidential race via campaign finance, media appearances and contributions.* | [code](https://github.com/datahub/walkerTracker-frontend)<br>[jsonline.com](http://www.jsonline.com/walkertracker) |
 
 #Special Indexes
@@ -41,6 +42,8 @@
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title | Links |
 | --- | --- | --- |
+| 10-18-2016 | **Wisconsin high school ACT scores 2015-2016** | [jsonline.com](http://projects.jsonline.com/database/2016/10/Wisconsin-high-school-ACT-scores-2015-2016.html) |
+| 10-9-2016 | **Changes in public school districts in Wisconsin since the passage of Act 10** | [jsonline.com](http://projects.jsonline.com/database/2016/10/Changes-to-Wisconsin-Schools-Since-Act-10.html) |
 | 9-25-2016 | **Retirement plan shortfalls in Wisconsin** | [jsonline.com](http://projects.jsonline.com/database/2016/9/Retirement-Plan-Shortfalls-Wisconsin.html#!/entity.asc.1/) |
 | 7-6-2016 | **Low Libido Treatment Clinical Trials Database** | [jsonline.com](http://www.jsonline.com/watchdog/dataondemand/Low-Libido-Treatment-Clinical-Trials-Database-385596811.html) |
 | 4-22-2016 | **Top Workplaces 2016** | [jsonline.com](http://www.jsonline.com/business/2016-top-workplaces-375568411.html) |
