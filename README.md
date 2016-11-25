@@ -2,6 +2,7 @@
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title | Links |
 | --- | --- | --- |
+| 11-25-2016 | **100 books for holiday gift giving in 2016** |[code](https://github.com/datahub/book-guide-2016)<br>[jsonline.com](http://projects.jsonline.com/entertainment/2016/11/27/100-books-for-holiday-gift-giving.html) |
 | 10-9-2016 | **Act 10 at Five**<br>*Part 1: From teacher 'free agency' to merit pay, the uproar over Act 10*  |[jsonline.com](http://projects.jsonline.com/news/2016/10/9/from-teacher-free-agency-to-merit-pay-the-uproar-over-act-10.html) |
 | 9-25-2016 | **Wisconsin faces billions in retiree obligations** | [code](https://github.com/datahub/pension-shortfall-map)<br>[jsonline.com](http://projects.jsonline.com/news/2016/9/25/Wisconsin-faces-billions-in-retiree-obligations.html#map-interactive) |
 | 8-21-2016 | **Timeline: Sherman Park**<br>*Tracing the events that caused unrest to descend into chaos.* | [jsonline.com](http://projects.jsonline.com/topics/sherman-park/timeline/) |
