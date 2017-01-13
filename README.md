@@ -2,6 +2,7 @@
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title | Links |
 | --- | --- | --- |
+| 1-13-2017 | **Oil and water**<br>*Pipeline pressure builds in the Great Lakes* |[code](https://github.com/datahub/great-lakes-pipeline-intro)<br>[jsonline.com](http://projects.jsonline.com/news/2017/1/15/intro/oil-and-water.html) |
 | 12-17-2016 | **Timeline: How the Lincoln Hills crisis unfolded**<br>*For years, officials knew or should have known about the problems at Lincoln Hills.* |[jsonline.com](http://projects.jsonline.com/topics/lincoln-hills/timeline/index.html) |
 | 12-9-2016 | **The price of being wrong**<br>*Newborn screening saves babies, but lives can be shattered when state labs ignore science and common sense.* |[jsonline.com](http://projects.jsonline.com/news/2016/12/11/the-price-of-being-wrong.html)<br>[code](https://github.com/datahub/price-of-being-wrong-2016) |
 | 11-25-2016 | **100 books for holiday gift giving in 2016** |[code](https://github.com/datahub/book-guide-2016)<br>[jsonline.com](http://projects.jsonline.com/entertainment/2016/11/27/100-books-for-holiday-gift-giving.html) |
