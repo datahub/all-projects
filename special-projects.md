@@ -2,7 +2,8 @@
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Title                                                                                                 | URL                                                                                                                                                                  |
 |------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1-13-2017 | Path of least resistance | [story](http://projects.jsonline.com/news/2017/1/15/intro/oil-and-water.html) |
+| 1-13-2017 | Path of least resistance | [story](http://projects.jsonline.com/news/2017/1/15/path-of-least-resistance.html) |
+| 12-11-2016 | Price of being wrong | [story](http://projects.jsonline.com/news/2016/12/11/the-price-of-being-wrong.html) |
 | 10-22-2016  | Juvenile offenders in legal limbo despite Supreme Court rulings                                          | [story](http://projects.jsonline.com/news/2016/10/22/juveniles-sentenced-to-life-in-wisconsin-have-little-chance-for-release.html)                                             |
 | 10-9-2016  | Part two: In wake of Act 10, fears rise about growing divide in arms race for teachers                                 | [story](http://projects.jsonline.com/news/2016/10/9/in-wake-of-act-10-fears-rise.html)                                                           |
 | 10-9-2016  | Part one: From teacher ‘free agency’ to merit pay, the uproar over Act 10 turns into upheaval in Wisconsin schools                                 | [story](http://projects.jsonline.com/news/2016/10/9/from-teacher-free-agency-to-merit-pay-the-uproar-over-act-10.html)                                                     |
