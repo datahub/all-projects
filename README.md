@@ -1,4 +1,4 @@
-#Interactives
+# Interactives
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title | Links |
 | --- | --- | --- |
@@ -17,7 +17,7 @@
 | 1-30-2016 | **Milwaukee Homicide Database**<br>*The Journal Sentinel is tracking homicides in Milwaukee to memorialize the victims and better understand deadly violence in the city.* | [code](https://github.com/datahub/crime-frontend)<br>[jsonline.com](http://www.jsonline.com/homicide) |
 | 3-25-2015 | **Scott Walker 2016 Presidential Tracker**<br>*Following Scott Walker's run in the 2016 Presidential race via campaign finance, media appearances and contributions.* | [code](https://github.com/datahub/walkerTracker-frontend)<br>[jsonline.com](http://www.jsonline.com/walkertracker) |
 
-#Special Indexes
+# Special Indexes
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title | Links |
 | --- | --- | --- |
@@ -43,7 +43,7 @@
 | 2-9-2013 | **Backfire**<br>*Government oversight in undercover ATF stings* | [jsonline.com](http://www.jsonline.com/watchdog/backfire-190528221.html) |
 | 12-8-2012 | **Paper Cuts**<br>*Wisconsin's paper industry* | [jsonline.com](http://www.jsonline.com/watchdog/backfire-190528221.html) |
 
-#Datapost Tables
+# Datapost Tables
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title | Links |
 | --- | --- | --- |
