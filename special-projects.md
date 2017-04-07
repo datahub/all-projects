@@ -2,6 +2,7 @@
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Title                                                                                                 | URL                                                                                                                                                                  |
 |------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 3-23-2017 | A Time to Heal (part 1 of 5) | [story](http://projects.jsonline.com/news/2017/3/23/epidemic-of-childhood-trauma-haunts-milwaukee.html) |
 | 2-15-2017 | Burned | [story](http://projects.jsonline.com/news/2017/2/15/chemicals-left-in-barrels-leave-many-at-risk.html) |
 | 1-13-2017 | Path of least resistance | [story](http://projects.jsonline.com/news/2017/1/15/path-of-least-resistance.html) |
 | 12-11-2016 | Price of being wrong | [story](http://projects.jsonline.com/news/2016/12/11/the-price-of-being-wrong.html) |
