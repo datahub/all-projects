@@ -21,6 +21,7 @@
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title | Links |
 | --- | --- | --- |
+| 3-12-2017 | **In Our Shoes** | [jsonline.com](http://projects.jsonline.com/news/2017/3/12/in-our-shoes.html) |
 | 10-1-2016 | **Landlord Games** | [jsonline.com](http://projects.jsonline.com/topics/landlord-games) |
 | 9-07-2016 | **Election 2016 Coverage**<br>*In partnership with WisconsinEYE* | [jsonline.com](http://projects.jsonline.com/topics/election-2016/) |
 | 8-17-2016 | **Milwaukee Sherman Park Turmoil**<br>*Collection of coverage on the events in Sherman Park* | [jsonline.com](http://projects.jsonline.com/topics/sherman-park/) |
