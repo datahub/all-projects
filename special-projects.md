@@ -2,11 +2,17 @@
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Title                                                                                                 | URL                                                                                                                                                                  |
 |------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 4-27-2017 | What Happened to Us?: A Way Forward | [story](https://projects.jsonline.com/news/2017/4/27/in-cleveland-co-op-model-finds-hope-in-employers-rooted-in-the-city.html) |
+| 4-27-2017 | What Happened to Us?: Employment | [story](https://projects.jsonline.com/news/2017/4/27/lack-of-jobs-continues-to-haunt-citys-turnaround-efforts.html) |
+| 4-27-2017 | What Happened to Us?: Incarceration | [story](https://projects.jsonline.com/news/2017/4/27/crime-rises-when-opportunities-fall.html) |
+| 4-27-2017 | What Happened to Us?: Homeownership | [story](https://projects.jsonline.com/news/2017/4/27/for-african-americans-homeownership-has-not-delivered-dreams.html) |
+| 3-30-2017 | A Time to Heal: Lessons from history (part 5 of 5) | [story](http://projects.jsonline.com/news/2017/3/30/immigration-was-is-and-will-be-source-of-renewal-in-milwaukee.html) |
 | 3-30-2017 | A Time to Heal: Lessons from history (part 5 of 5) | [story](http://projects.jsonline.com/news/2017/3/30/immigration-was-is-and-will-be-source-of-renewal-in-milwaukee.html) |
 | 3-29-2017 | A Time to Heal: The unlikliest neighborhood (part 4 of 5) | [story](http://projects.jsonline.com/news/2017/3/29/the-unlikeliest-neighborhood.html) |
 | 3-28-2017 | A Time to Heal: 'I'm defying the odds' (part 3 of 5) | [story](http://projects.jsonline.com/news/2017/3/28/healing-invisible-scars-demands-resilience-intervention-time.html) |
 | 3-27-2017 | A Time to Heal: An intractable problem (part 2 of 5) | [story](http://projects.jsonline.com/news/2017/3/27/an-intractable-problem.html) |
 | 3-23-2017 | A Time to Heal: From generation to generation (part 1 of 5) | [story](http://projects.jsonline.com/news/2017/3/23/epidemic-of-childhood-trauma-haunts-milwaukee.html) |
+| 3-15-2017 | Overmedicated | [story](https://projects.jsonline.com/news/2017/3/15/fighting-the-fog-of-mental-illness.html) |
 | 3-8-2017 | Outbreak | [story](http://projects.jsonline.com/news/2017/3/8/orangutan-death-sparks-fear-about-greater-threat.html) |
 | 2-15-2017 | Burned | [story](http://projects.jsonline.com/news/2017/2/15/chemicals-left-in-barrels-leave-many-at-risk.html) |
 | 1-13-2017 | Path of least resistance | [story](http://projects.jsonline.com/news/2017/1/15/path-of-least-resistance.html) |
