@@ -2,6 +2,7 @@
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title | Links |
 | --- | --- | --- |
+| 7-10-2017 | **Where does 'up north' begin for Wisconsinites**<br>*Draw your own line* |[jsonline.com](https://projects.jsonline.com/news/2017/7/10/where-does-up-north-begin-wisconsinites-draw-your-own-line.html) |
 | 5-17-2017 | **Bradley Blueprint**<br>*Breaking down Bradley Foundation spending* |[jsonline.com](https://projects.jsonline.com/news/2017/5/17/breaking-down-bradley-foundation-spending.html) |
 | 1-13-2017 | **What Happened to Us?**<br>*Examining Milwaukee's persistent problems through the eyes of one class* |[jsonline.com](https://projects.jsonline.com/news/2017/4/27/intro/) |
 | 1-13-2017 | **Oil and water**<br>*Pipeline pressure builds in the Great Lakes* |[code](https://github.com/datahub/great-lakes-pipeline-intro)<br>[jsonline.com](http://projects.jsonline.com/news/2017/1/15/intro/oil-and-water.html) |
