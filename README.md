@@ -2,6 +2,7 @@
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title | Links |
 | --- | --- | --- |
+| 5-17-2017 | **Bradley Blueprint**<br>*Breaking down Bradley Foundation spending* |[jsonline.com](https://projects.jsonline.com/news/2017/5/17/breaking-down-bradley-foundation-spending.html) |
 | 1-13-2017 | **What Happened to Us?**<br>*Examining Milwaukee's persistent problems through the eyes of one class* |[jsonline.com](https://projects.jsonline.com/news/2017/4/27/intro/) |
 | 1-13-2017 | **Oil and water**<br>*Pipeline pressure builds in the Great Lakes* |[code](https://github.com/datahub/great-lakes-pipeline-intro)<br>[jsonline.com](http://projects.jsonline.com/news/2017/1/15/intro/oil-and-water.html) |
 | 12-17-2016 | **Timeline: How the Lincoln Hills crisis unfolded**<br>*For years, officials knew or should have known about the problems at Lincoln Hills.* |[jsonline.com](http://projects.jsonline.com/topics/lincoln-hills/timeline/index.html) |
@@ -22,6 +23,7 @@
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title | Links |
 | --- | --- | --- |
+| 5-28-2017 | **Wisconsin Trails**<br>*On The Road* | [jsonline.com](https://projects.jsonline.com/topics/wisconsin-trails/on-the-road.html) |
 | 3-12-2017 | **In Our Shoes** | [jsonline.com](http://projects.jsonline.com/news/2017/3/12/in-our-shoes.html) |
 | 10-1-2016 | **Landlord Games** | [jsonline.com](http://projects.jsonline.com/topics/landlord-games) |
 | 9-07-2016 | **Election 2016 Coverage**<br>*In partnership with WisconsinEYE* | [jsonline.com](http://projects.jsonline.com/topics/election-2016/) |

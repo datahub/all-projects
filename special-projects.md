@@ -2,7 +2,9 @@
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Title                                                                                                 | URL                                                                                                                                                                  |
 |------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 5-5-2017 | The Bradley Blueprint | [story](https://projects.jsonline.com/news/2017/5/5/hacked-records-show-bradley-foundation-taking-wisconsin-model-national.html) |
+| 5-24-2017 | Outbreak: Infectious disease collides with changing climate | [story](https://projects.jsonline.com/news/2017/5/24/infectious-disease-collides-with-changing-climate.html) |
+| 5-17-2017 | The Bradley Blueprint – Wisconsin | [story](https://projects.jsonline.com/news/2017/5/17/gov-walkers-commission-bankrolled-by-bradley-foundation.html) |
+| 5-5-2017 | The Bradley Blueprint – National | [story](https://projects.jsonline.com/news/2017/5/5/hacked-records-show-bradley-foundation-taking-wisconsin-model-national.html) |
 | 4-27-2017 | What Happened to Us?: A Way Forward | [story](https://projects.jsonline.com/news/2017/4/27/in-cleveland-co-op-model-finds-hope-in-employers-rooted-in-the-city.html) |
 | 4-27-2017 | What Happened to Us?: Employment | [story](https://projects.jsonline.com/news/2017/4/27/lack-of-jobs-continues-to-haunt-citys-turnaround-efforts.html) |
 | 4-27-2017 | What Happened to Us?: Incarceration | [story](https://projects.jsonline.com/news/2017/4/27/crime-rises-when-opportunities-fall.html) |
