@@ -2,6 +2,10 @@
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Title                                                                                                 | URL                                                                                                                                                                  |
 |------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 9-20-2017 | Unsolved Chapter 4: Missing mom | [story](https://projects.jsonline.com/topics/unsolved/chapter-4-missing-mom.html) |
+| 9-13-2017 | Unsolved Chapter 3: Where's Michelle? | [story](https://projects.jsonline.com/topics/unsolved/chapter-3-wheres-michelle.html) |
+| 9-6-2017 | Unsolved Chapter 2: The shadow man | [story](https://projects.jsonline.com/topics/unsolved/chapter-2-the-shadow-man.html) |
+| 8-30-2017 | Unsolved Chapter 1: "Not my baby" | [story](https://projects.jsonline.com/topics/unsolved/chapter-1-not-my-baby.html) |
 | 8-30-2017 | Trust damaged between Milwaukee police and community, Department of Justice draft report says | [story](https://projects.jsonline.com/news/2017/8/30/trust-damaged-between-milwaukee-police-department-of-justice-draft-report-says.html) |
 | 8-18-2017 | The Intimidator | [story](https://projects.jsonline.com/news/2017/8/18/intimidator.html) |
 | 7-13-2017 | Outbreak: Pathway to peril | [story](https://projects.jsonline.com/news/2017/7/13/pathway-to-peril-whats-the-new-zika.html) |
