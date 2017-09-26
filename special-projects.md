@@ -2,6 +2,9 @@
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Title                                                                                                 | URL                                                                                                                                                                  |
 |------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 8-30-2017 | Trust damaged between Milwaukee police and community, Department of Justice draft report says | [story](https://projects.jsonline.com/news/2017/8/30/trust-damaged-between-milwaukee-police-department-of-justice-draft-report-says.html) |
+| 8-18-2017 | The Intimidator | [story](https://projects.jsonline.com/news/2017/8/18/intimidator.html) |
+| 7-13-2017 | Outbreak: Pathway to peril | [story](https://projects.jsonline.com/news/2017/7/13/pathway-to-peril-whats-the-new-zika.html) |
 | 5-24-2017 | Outbreak: Infectious disease collides with changing climate | [story](https://projects.jsonline.com/news/2017/5/24/infectious-disease-collides-with-changing-climate.html) |
 | 5-17-2017 | The Bradley Blueprint – Wisconsin | [story](https://projects.jsonline.com/news/2017/5/17/gov-walkers-commission-bankrolled-by-bradley-foundation.html) |
 | 5-5-2017 | The Bradley Blueprint – National | [story](https://projects.jsonline.com/news/2017/5/5/hacked-records-show-bradley-foundation-taking-wisconsin-model-national.html) |

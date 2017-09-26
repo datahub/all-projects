@@ -24,6 +24,9 @@
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title | Links |
 | --- | --- | --- |
+| 9-13-2017 | **Journal Sentinel Tips page** | [jsonline.com](https://projects.jsonline.com/tips/index.html) |
+| 8-30-2017 | **Unsolved Sesaon Two**<br>*A toddler's death, a tangled trail* | [jsonline.com](https://projects.jsonline.com/topics/unsolved/) |
+| 7-30-2017 | **50-Year Ache**<br>*From housing to education to jobs and more, the Milwaukee Journal Sentinel is examining the impact of the city's open housing marches and where things stand today.* | [jsonline.com](https://projects.jsonline.com/topics/50-year-ache/) |
 | 5-28-2017 | **Wisconsin Trails**<br>*On The Road* | [jsonline.com](https://projects.jsonline.com/topics/wisconsin-trails/on-the-road.html) |
 | 3-12-2017 | **In Our Shoes** | [jsonline.com](http://projects.jsonline.com/news/2017/3/12/in-our-shoes.html) |
 | 10-1-2016 | **Landlord Games** | [jsonline.com](http://projects.jsonline.com/topics/landlord-games) |
