@@ -2,6 +2,7 @@
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Title                                                                                                 | URL                                                                                                                                                                  |
 |------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 9-27-2017 | Unsolved Chapter 5: The girl in the cafe | [story](https://projects.jsonline.com/topics/unsolved/chapter-5-the-girl-in-the-cafe.html) |
 | 9-20-2017 | Unsolved Chapter 4: Missing mom | [story](https://projects.jsonline.com/topics/unsolved/chapter-4-missing-mom.html) |
 | 9-13-2017 | Unsolved Chapter 3: Where's Michelle? | [story](https://projects.jsonline.com/topics/unsolved/chapter-3-wheres-michelle.html) |
 | 9-6-2017 | Unsolved Chapter 2: The shadow man | [story](https://projects.jsonline.com/topics/unsolved/chapter-2-the-shadow-man.html) |
