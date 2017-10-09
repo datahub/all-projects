@@ -2,6 +2,8 @@
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title | Links |
 | --- | --- | --- |
+| 10-5-2017 | **Outbreak: Man vs. mosquito**<br>*What is a gene drive?* |[jsonline.com](https://projects.jsonline.com/news/2017/10/5/outwitting-natures-greatest-killer.html) |
+| 8-30-2017 | **Unsolved Chapter 1: 'Not my baby'**<br>*Michelle Manders' path* |[jsonline.com](https://projects.jsonline.com/topics/unsolved/chapter-1-not-my-baby.html) |
 | 7-10-2017 | **Where does 'up north' begin for Wisconsinites**<br>*Draw your own line* |[jsonline.com](https://projects.jsonline.com/news/2017/7/10/where-does-up-north-begin-wisconsinites-draw-your-own-line.html) |
 | 5-17-2017 | **Bradley Blueprint**<br>*Breaking down Bradley Foundation spending* |[jsonline.com](https://projects.jsonline.com/news/2017/5/17/breaking-down-bradley-foundation-spending.html) |
 | 1-13-2017 | **What Happened to Us?**<br>*Examining Milwaukee's persistent problems through the eyes of one class* |[jsonline.com](https://projects.jsonline.com/news/2017/4/27/intro/) |
