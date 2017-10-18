@@ -1,0 +1,12 @@
+general:
+  branches:
+    only:
+     - master
+test:
+  override:
+    - python main.py
+deployment:
+  production:
+    branch: master
+    commands:
+      - aws s3 cp index.html s3://projects.jsonline.com/index.html --delete

@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Projects Server Index - Milwaukee Journal Sentinel</title>
+
+    <meta name="mjs:headline" content="Projects Server Index (this page)">
+    <meta name="mjs:dateline" content="2017-10-18">
+    <meta name="mjs:series" content="">
+
+    <link rel="shortcut icon" href="https://projects.jsonline.com/shared/media/js-favicon.png">
+    <link href="https://projects.jsonline.com/shared/css/font.futura-today.css" rel="stylesheet">
+    <style>
+        body {margin: 0; padding: 0; font-family: 'Futura Today', Arial, sans-serif; font-size: 16px; line-height: 1.4; color: #404040;}
+        a, a:focus, a:visited {text-decoration: none; color: #0d3a57;}
+        a:hover {color: #009bff;}
+        .mjs-container {width: 96%; max-width: 1000px; margin: 20px auto;}
+        .title {display: inline-block; margin: 20px 0; padding: 0 0 5px 0; font-size: 40px; border-bottom: 4px solid #009bff; line-height: 1; font-family: 'Futura Today Bold', Arial, sans-serif;}
+        .group {margin: 0; padding: 0;}
+        .page {margin: 0; padding: 5px 0; list-style-type: none; border-bottom: 1px dashed #ccc; overflow-y: auto;}
+        .group-name {margin: 40px 0 10px 0; padding-left: 6px; border-left: 3px solid #009bff; font-size: 20px;}
+        .headline {padding-right: 80px;}
+        .dateline {float: right;}
+    </style>
+</head>
+<body>
+    <script src="/shared/header/v3/header.js"></script>
+    <div class="mjs-container">
+        <h1 class="title">Projects Server Index</h1>
+        {% for group_name, links in groups.items() %}
+            {% if links|length > 0 %}
+                <h3 class="group-name">{{ group_name }}</h3>
+                <ul class="group">
+                {% for link in links %}
+                    <li class="page">
+                        <a class="headline" href="https://projects.jsonline.com/{{ link.link }}" target="_blank">{{ link.headline or link.link }}</a>
+                        {% if link.dateline %}<span class="dateline">{{ link.dateline.strftime('%-m/%-d/%Y') }}</span>{% endif %}
+                    </li>
+                {% endfor %}
+                </ul>
+            {% endif %}
+        {% endfor %}
+    </div>
+</body>
+</html>
