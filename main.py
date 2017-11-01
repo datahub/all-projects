@@ -81,7 +81,7 @@ if __name__ == '__main__':
 
     excludes = ''
     with open('excludes.tsv', 'r') as f:
-        excludes = f.read().replace('\r', '').split('\n')
+        excludes = filter(None, f.read().replace('\r', '').split('\n'))
     print "Excluding urls that contain: {}".format(', '.join(excludes))
 
     links = get_urls(excludes)
