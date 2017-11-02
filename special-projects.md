@@ -2,7 +2,10 @@
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Title                                                                                                 | URL                                                                                                                                                                  |
 |------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 11-1-2017 | Outbreak: Can math be used to predict an outbreak? | [story](https://projects.jsonline.com/news/2017/11/1/can-math-be-used-to-predict-an-outbreak.html) |
 | 10-5-2017 | Outbreak: Man vs. mosquito | [story](https://projects.jsonline.com/news/2017/10/5/outwitting-natures-greatest-killer.html) |
+| 10-18-2017 | Unsolved Chapter 8: I'll see her in heaven | [story](https://projects.jsonline.com/topics/unsolved/chapter-8-ill-see-her-in-heaven.html) |
+| 10-11-2017 | Unsolved Chapter 7: A troubled history | [story](https://projects.jsonline.com/topics/unsolved/chapter-7-a-troubled-history.html) |
 | 10-4-2017 | Unsolved Chapter 6: Cults and witchcraft | [story](https://projects.jsonline.com/topics/unsolved/chapter-6-cults-and-witchcraft.html) |
 | 9-27-2017 | Unsolved Chapter 5: The girl in the cafe | [story](https://projects.jsonline.com/topics/unsolved/chapter-5-the-girl-in-the-cafe.html) |
 | 9-20-2017 | Unsolved Chapter 4: Missing mom | [story](https://projects.jsonline.com/topics/unsolved/chapter-4-missing-mom.html) |
@@ -30,12 +33,12 @@
 | 2-15-2017 | Burned | [story](http://projects.jsonline.com/news/2017/2/15/chemicals-left-in-barrels-leave-many-at-risk.html) |
 | 1-13-2017 | Path of least resistance | [story](http://projects.jsonline.com/news/2017/1/15/path-of-least-resistance.html) |
 | 12-11-2016 | Price of being wrong | [story](http://projects.jsonline.com/news/2016/12/11/the-price-of-being-wrong.html) |
-| 10-22-2016  | Juvenile offenders in legal limbo despite Supreme Court rulings                                          | [story](http://projects.jsonline.com/news/2016/10/22/juveniles-sentenced-to-life-in-wisconsin-have-little-chance-for-release.html)                                             |
-| 10-9-2016  | Part two: In wake of Act 10, fears rise about growing divide in arms race for teachers                                 | [story](http://projects.jsonline.com/news/2016/10/9/in-wake-of-act-10-fears-rise.html)                                                           |
-| 10-9-2016  | Part one: From teacher ‘free agency’ to merit pay, the uproar over Act 10 turns into upheaval in Wisconsin schools                                 | [story](http://projects.jsonline.com/news/2016/10/9/from-teacher-free-agency-to-merit-pay-the-uproar-over-act-10.html)                                                     |
-| 9-26-2016  | Wisconsin's fully funded pension system is one of a kind                                              | [story](http://projects.jsonline.com/news/2016/9/26/wisconsins-fully-funded-pension-system-is-one-of-a-kind.html)                                                   |
-| 9-25-2016  | City pension banking on big returns                                                                   | [story](http://projects.jsonline.com/news/2016/9/25/city-pension-banking-on-big-returns.html)                                                   |
-| 9-25-2016  | Wisconsin faces billions in retiree obligations                                                       | [story](http://projects.jsonline.com/news/2016/9/25/Wisconsin-faces-billions-in-retiree-obligations.html)                                                   |
+| 10-22-2016  | Juvenile offenders in legal limbo despite Supreme Court rulings | [story](http://projects.jsonline.com/news/2016/10/22/juveniles-sentenced-to-life-in-wisconsin-have-little-chance-for-release.html)  |
+| 10-9-2016  | Part two: In wake of Act 10, fears rise about growing divide in arms race for teachers  | [story](http://projects.jsonline.com/news/2016/10/9/in-wake-of-act-10-fears-rise.html) |
+| 10-9-2016  | Part one: From teacher ‘free agency’ to merit pay, the uproar over Act 10 turns into upheaval in Wisconsin schools  | [story](http://projects.jsonline.com/news/2016/10/9/from-teacher-free-agency-to-merit-pay-the-uproar-over-act-10.html)  |
+| 9-26-2016  | Wisconsin's fully funded pension system is one of a kind  | [story](http://projects.jsonline.com/news/2016/9/26/wisconsins-fully-funded-pension-system-is-one-of-a-kind.html) |
+| 9-25-2016  | City pension banking on big returns  | [story](http://projects.jsonline.com/news/2016/9/25/city-pension-banking-on-big-returns.html)|
+| 9-25-2016  | Wisconsin faces billions in retiree obligations  | [story](http://projects.jsonline.com/news/2016/9/25/Wisconsin-faces-billions-in-retiree-obligations.html) |
 
 
 ***************
