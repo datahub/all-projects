@@ -47,7 +47,9 @@ def get_url_metadata(url):
         series = re.search(series_regex, contents).group(1)
     except:
         series = ''
-
+    
+    print url
+    
     return {
         'link': url,
         'headline': headline,
