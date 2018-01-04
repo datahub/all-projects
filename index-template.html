@@ -21,8 +21,7 @@
         .group {margin: 0; padding: 0;}
         .page {margin: 0; padding: 5px 0; list-style-type: none; border-bottom: 1px dashed #ccc; overflow-y: auto;}
         .group-name {margin: 40px 0 10px 0; padding-left: 6px; border-left: 3px solid #009bff; font-size: 20px;}
-        .headline {padding-right: 80px;}
-        .dateline {float: right;}
+        .dateline {float: right; margin-left: 10px;}
     </style>
 </head>
 <body>
@@ -35,16 +34,16 @@
                 <ul class="group">
                 {% for link in links %}
                     <li class="page">
-                        <a class="headline" href="https://projects.jsonline.com/{{ link.link }}" target="_blank">{{ link.headline or link.link }}</a>
                         {% if link.dateline %}<span class="dateline">{{ link.dateline.strftime('%-m/%-d/%Y') }}</span>{% endif %}
+                        <a class="headline" href="https://projects.jsonline.com/{{ link.link }}" target="_blank">{{ link.headline or link.link }}</a>
                     </li>
                 {% endfor %}
                 </ul>
             {% endif %}
         {% endfor %}
     </div>
-    <script>requires_https = true; var utag_data = {contenttype : "interactives"};</script>
+    <script>var requires_https = true; var utag_data = {contenttype : "interactives"};</script>
     <script src="//tags.tiqcdn.com/utag/gci/jsonline-cobrand/prod/utag.js"></script>
-    <script src="https://projects.jsonline.com/shared/js/projects-ga.js"></script>
+    <script src="//projects.jsonline.com/shared/js/projects-ga.js"></script>
 </body>
 </html>
