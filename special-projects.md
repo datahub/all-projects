@@ -4,14 +4,10 @@
 |------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2-20-2018 | Wisconsin and Milwaukee-area spring primary election results | [story](https://projects.jsonline.com/news/2018/2/20/february-2018-milwaukee-area-primary-election-results.html) |
 | 12-19-2017 | Burned: Noxious neighbor | [story](http://projects.jsonline.com.s3.amazonaws.com/news/2017/12/19/noxious-neighbor.html) |
-| 12-15-2017 | Outbreak: The hunt for a future killer
- | [story](https://projects.jsonline.com/news/2017/12/15/the-hunt-for-a-future-killer.html) |
-| 12-13-2017 | Burned: Empty industrial barrels bought on Craigslist present deadly dangers
- | [story](https://projects.jsonline.com/news/2017/12/13/dangerous-drums-peddled-to-unwitting-public.html) |
-| 12-4-2017 | Time to heal: Wisconsin childhood trauma data explodes myth of 'not in my small town'
- | [story](https://projects.jsonline.com/news/2017/12/4/wisconsin-childhood-trauma-data-explodes-myth-of-not-in-my-small-town.html) |
-| 11-30-2017 | Time to heal: Impact of childhood trauma reaches rural Wisconsin
- | [story](https://projects.jsonline.com/news/2017/11/30/impact-of-childhood-trauma-reaches-rural-wisconsin.html) |
+| 12-15-2017 | Outbreak: The hunt for a future killer | [story](https://projects.jsonline.com/news/2017/12/15/the-hunt-for-a-future-killer.html) |
+| 12-13-2017 | Burned: Empty industrial barrels bought on Craigslist present deadly dangers | [story](https://projects.jsonline.com/news/2017/12/13/dangerous-drums-peddled-to-unwitting-public.html) |
+| 12-4-2017 | Time to heal: Wisconsin childhood trauma data explodes myth of 'not in my small town' | [story](https://projects.jsonline.com/news/2017/12/4/wisconsin-childhood-trauma-data-explodes-myth-of-not-in-my-small-town.html) |
+| 11-30-2017 | Time to heal: Impact of childhood trauma reaches rural Wisconsin | [story](https://projects.jsonline.com/news/2017/11/30/impact-of-childhood-trauma-reaches-rural-wisconsin.html) |
 | 11-24-2017 | Outbreak: Flight risk | [story](https://projects.jsonline.com/news/2017/11/24/flight-risk.html) |
 | 11-9-2017 | The oil pipelines of Wisconsin | [story](https://projects.jsonline.com/news/2017/11/9/oil-pipelines-of-wisconsin.html) |
 | 11-9-2017 | Oil and Water: Greasing oil's path | [story](https://projects.jsonline.com/news/2017/11/9/greasing-oils-path.html) |
