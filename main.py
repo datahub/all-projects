@@ -30,7 +30,7 @@ def get_url_metadata(url):
     
     headline_regex = re.compile(r'<meta\s+name\=["\']mjs:headline["\']\s*content\=["\'](.*?)["\']\s*\/?>')
     try:
-        headline = re.search(headline_regex, contents).group(1)
+        headline = re.search(headline_regex, contents).group(1).decode('utf-8')
     except:
         headline = ''
     
@@ -44,7 +44,7 @@ def get_url_metadata(url):
     
     series_regex = re.compile(r'<meta\s+name\=["\']mjs:series["\']\s*content\=["\'](.*?)["\']\s*\/?>')
     try:
-        series = re.search(series_regex, contents).group(1)
+        series = re.search(series_regex, contents).group(1).decode('utf-8')
     except:
         series = ''
     
