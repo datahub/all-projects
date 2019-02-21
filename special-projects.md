@@ -2,6 +2,7 @@
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Title                                                                                                 | URL                                                                                                                                                                  |
 |------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2-28-2018 | Bad Medicine | [story](https://projects.jsonline.com/news/2018/2/28/is-your-doctor-banned-from-practicing-in-other-states.html) |
 | 2-20-2018 | Wisconsin and Milwaukee-area spring primary election results | [story](https://projects.jsonline.com/news/2018/2/20/february-2018-milwaukee-area-primary-election-results.html) |
 | 12-19-2017 | Burned: Noxious neighbor | [story](http://projects.jsonline.com.s3.amazonaws.com/news/2017/12/19/noxious-neighbor.html) |
 | 12-15-2017 | Outbreak: The hunt for a future killer | [story](https://projects.jsonline.com/news/2017/12/15/the-hunt-for-a-future-killer.html) |
